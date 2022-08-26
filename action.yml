@@ -1,0 +1,65 @@
+name: 'go-sec'
+description: 'Run go-sec'
+author: 'Conventional Actions'
+inputs:
+  version:
+    required: false
+    description: 'version of gosec to use'
+    default: latest
+  output_path:
+    required: false
+    description: 'output file path'
+    default: gosec.sarif
+  package:
+    required: false
+    description: 'package to scan'
+    default: ./...
+  config_path:
+    required: false
+    description: 'path to config file'
+  confidence:
+    required: false
+    default: 'low'
+    description: 'filter out the issues with a lower confidence than the given value. Valid options are: low, medium, high'
+  exclude:
+    required: false
+    description: 'comma-separated list of rules IDs to exclude. (see rule list)'
+  include:
+    required: false
+    description: 'comma-separated list of rules IDs to include. (see rule list)'
+  exclude_generated:
+    required: false
+    default: 'true'
+    description: 'exclude generated files'
+  format:
+    required: false
+    default: 'sarif'
+    description: 'set output format. Valid options are: json, yaml, csv, junit-xml, html, sonarqube, golint, sarif or text'
+  fail_on_error:
+    required: false
+    default: 'false'
+    description: 'fail the scanning if issues are found'
+  include_tests:
+    required: false
+    default: 'false'
+    description: 'scan tests files'
+  severity:
+    required: false
+    default: 'low'
+    description: 'filter out the issues with a lower severity than the given value. Valid options are: low, medium, high'
+  tags:
+    required: false
+    description: 'comma-separated list of build tags'
+  exclude_path:
+    required: false
+    description: 'exclude folder from scan (can be specified multiple times)'
+outputs:
+  output_path:
+    description: 'output file path'
+runs:
+  using: 'node16'
+  pre: 'dist/setup/index.js'
+  main: 'dist/main/index.js'
+branding:
+  icon: shopping-cart
+  color: purple

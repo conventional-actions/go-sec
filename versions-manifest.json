@@ -1,0 +1,217 @@
+[
+  {
+    "version": "2.13.1",
+    "stable": true,
+    "release_url": "https://github.com/securego/gosec/releases/tag/v2.13.1",
+    "files": [
+      {
+        "filename": "gosec_2.13.1_darwin_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_darwin_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.1_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_darwin_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.1_linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_linux_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.1_linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_linux_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.1_windows_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_windows_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.1_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.1/gosec_2.13.1_windows_arm64.tar.gz"
+      }
+    ]
+  },
+  {
+    "version": "2.13.0",
+    "stable": true,
+    "release_url": "https://github.com/securego/gosec/releases/tag/v2.13.0",
+    "files": [
+      {
+        "filename": "gosec_2.13.0_darwin_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_darwin_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_darwin_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.0_linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_linux_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.0_linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_linux_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.0_windows_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_windows_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.13.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.13.0/gosec_2.13.0_windows_arm64.tar.gz"
+      }
+    ]
+  },
+  {
+    "version": "2.12.0",
+    "stable": true,
+    "release_url": "https://github.com/securego/gosec/releases/tag/v2.12.0",
+    "files": [
+      {
+        "filename": "gosec_2.12.0_darwin_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_darwin_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.12.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_darwin_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.12.0_linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_linux_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.12.0_linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_linux_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.12.0_windows_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_windows_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.12.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.12.0/gosec_2.12.0_windows_arm64.tar.gz"
+      }
+    ]
+  },
+  {
+    "version": "2.11.0",
+    "stable": true,
+    "release_url": "https://github.com/securego/gosec/releases/tag/v2.11.0",
+    "files": [
+      {
+        "filename": "gosec_2.11.0_darwin_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_darwin_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.11.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_darwin_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.11.0_linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_linux_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.11.0_linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_linux_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.11.0_windows_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_windows_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.11.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.11.0/gosec_2.11.0_windows_arm64.tar.gz"
+      }
+    ]
+  },
+  {
+    "version": "2.10.0",
+    "stable": true,
+    "release_url": "https://github.com/securego/gosec/releases/tag/v2.10.0",
+    "files": [
+      {
+        "filename": "gosec_2.10.0_darwin_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_darwin_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.10.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "darwin",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_darwin_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.10.0_linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_linux_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.10.0_linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_linux_arm64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.10.0_windows_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_windows_amd64.tar.gz"
+      },
+      {
+        "filename": "gosec_2.10.0_darwin_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "windows",
+        "download_url": "https://github.com/securego/gosec/releases/download/v2.10.0/gosec_2.10.0_windows_arm64.tar.gz"
+      }
+    ]
+  }
+]
