@@ -61,5 +61,5 @@ runs:
   pre: 'dist/setup/index.js'
   main: 'dist/main/index.js'
 branding:
-  icon: shopping-cart
+  icon: lock
   color: purple
