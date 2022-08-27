@@ -58,20 +58,3 @@ jobs:
 ## License
 
 The scripts and documentation in this project are released under the [MIT License](LICENSE).
-
-
-
-
--conf string        # Path to optional config file
--confidence string  # Filter out the issues with a lower confidence than the given value. Valid options are: low, medium, high (default "low")
--exclude value      # Comma separated list of rules IDs to exclude. (see rule list)
--exclude-dir value  # Exclude folder from scan (can be specified multiple times)
--exclude-generated  # Exclude generated files
--fmt string         # Set output format. Valid options are: json, yaml, csv, junit-xml, html, sonarqube, golint, sarif or text (default "text")
--include string     # Comma separated list of rules IDs to include. (see rule list)
--no-fail            # Do not fail the scanning, even if issues were found
--out string         # Set output file for results
--severity string    # Filter out the issues with a lower severity than the given value. Valid options are: low, medium, high (default "low")
--tags string        # Comma separated list of build tags
--tests              # Scan tests files
--verbose sarif      # json, yaml, csv, junit-xml, html, sonarqube, golint, sarif or text
