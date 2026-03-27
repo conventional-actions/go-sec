@@ -57,9 +57,9 @@ outputs:
   output_path:
     description: 'output file path'
 runs:
-  using: 'node20'
-  pre: 'dist/setup/index.js'
-  main: 'dist/main/index.js'
+  using: 'node24'
+  pre: 'dist/setup.cjs'
+  main: 'dist/index.cjs'
 branding:
   icon: lock
   color: purple
